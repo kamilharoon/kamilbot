@@ -25,7 +25,7 @@ async def help(ctx):
     async def hi(ctx):
         await ctx.send(f"Commands:Welcome @shaheenkk#6300")
 
-bot.run("ODUwNjc2Mjc3MzMyNTQxNDUx.YLtMBQ.bL0WNScZ9405GvShST1KfNuxqnc")
+bot.run(" BOt token ")
 
 
 
